@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... Signal Processing, Analog and Digital Communications and Information Theory For now ! 
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
+- -My Hobbies are Competitive Coding , Eating out Diverse Items and Watching Movies
 
 <!---
 vikramsvdd/vikramsvdd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
