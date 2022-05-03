@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vikramsvdd
 - 👀 I’m interested in ... Signal Processing, Analog and Digital Communications and Information Theory For now ! 
 - 🌱 I’m currently learning ... Signal Processing, Analog and Digital Communications and Information Theory For now ! 
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on ... all of the above mentioned domains 
 - 📫 How to reach me ...
 - -My Hobbies are Competitive Coding , Eating out Diverse Items and Watching Movies
 
