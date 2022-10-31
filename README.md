@@ -4,7 +4,7 @@
 - 📫 Reach me via Github, or G-mail(vv50517@gmail.com)
 - -My Hobbies are Competitive Coding, Eating out and Watching Movies
 
-PS : Many of my Repositories are private, that's because they contain confidential information like my two repositories linked to my recent research project in IISc, if you are really interested in my work, reach me via e-mail, let us have a chat and then if everything goes well, I shall add you as a read-only contributor temporarily.
+PS : Some of my Repositories are private, that's because they contain confidential information like my two repositories linked to my recent research project in IISc, if you are really interested in my work, reach me via e-mail, let us have a chat and then if everything goes well, I shall add you as a read-only contributor temporarily.
 
 <!---
 vikramsvdd/vikramsvdd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
