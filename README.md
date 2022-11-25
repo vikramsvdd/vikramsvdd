@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vikramsvdd
 - 👀 I’m interested in ...Wireless Communications ! 
-- 🌱 I’m currently working in Indian-Institute-of-Science-Bangalore as a Project Asssociate under Prof.Chockalingam in VLC_Communications. 
+- 🌱 I’m currently working in Indian-Institute-of-Science-Bangalore as a Project Asssociate under [Prof.Chockalingam](https://ece.iisc.ac.in/~achockal/) in VLC_Communications. 
 - 📫 Reach me via Github, or G-mail(vv50517@gmail.com)
 - -My Hobbies are Competitive Coding, Eating out and Watching Movies
 
